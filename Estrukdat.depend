@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728358469 source:e:\matkul\std\estrukdat\kele.cpp
+	"kelE.h"
+
+1728357384 e:\matkul\std\estrukdat\kele.h
+	<iostream>
+	<string>
+
+1728381961 source:e:\matkul\std\estrukdat\main.cpp
+	<iostream>
+	"kelE.h"
+
